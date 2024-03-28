@@ -1,0 +1,3 @@
+Write a program that demonstrates the usage of a generic collection (e.g., List) to store and manipulate a collection of integers.
+Perform operations such as adding, removing, and iterating over the elements.
+-Extend Task to include error handling for cases where the collection is empty or the user provides invalid input.
